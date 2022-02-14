@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="pagelari calistirma">
+<test name="smoke test">
+<packages>
+   <package name="test.smokeTest"></package>
+    
+</packages>
+
+
+    
+</test>
+
+
+
+
+
+
+</suite>

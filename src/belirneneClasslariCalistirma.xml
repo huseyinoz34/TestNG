@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="belirli classlar">
+    <test name="class">
+<classes>
+
+<class name="test.day16.C02_DriverIlkTest"></class>
+    
+</classes>
+
+
+
+
+    </test>
+
+
+
+
+
+</suite>
